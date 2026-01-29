@@ -8,9 +8,11 @@
 
 ### About
 
-- 💻 Software engineer, DS & DataViz
-- 🧠 Interested in (Gen)AI
+- 💻 Visualization Enthusiast | DS & AI Explorer
+- 🧠 Interested in Java&AI
 - 🕸 Coordinator/Speaker at
+  - JFall 2025 - Mentoring Hub
+  - JCon Cologne 2025 - Mentoring Hub
   - TDC São Paulo 2024 - Mentoring Hub
   - TDC Future 2022 - Data Science
   - TDC Future 2021 - A11y & Diversity
