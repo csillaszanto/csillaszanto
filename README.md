@@ -11,6 +11,7 @@
 - 💻 Visualization Enthusiast | DS & AI Explorer
 - 🧠 Interested in Java&AI
 - 🕸 Coordinator/Speaker at
+  - JCon Cologne 2026 - Mentoring Hub
   - JFall 2025 - Mentoring Hub
   - JCon Cologne 2025 - Mentoring Hub
   - TDC São Paulo 2024 - Mentoring Hub
@@ -26,12 +27,10 @@
 ### Connect with me:
 
 [<img align="left" alt="visionaryds.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="csillaszanto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="csillaszanto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ---
 [website]: https://visionaryds.ch
-[twitter]: https://twitter.com/CsillaSzanto
 [linkedin]: https://www.linkedin.com/in/csilla-szanto
